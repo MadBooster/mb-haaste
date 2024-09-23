@@ -137,3 +137,4 @@ stats.html
 
 backend/database.json
 stuff/
+.DS_Store

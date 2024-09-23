@@ -38,7 +38,7 @@ git clone git@github.com:MadBooster/mb-haaste.git
 cd mb-haaste
 npm install
 # On separate windows/tabs
-# Starts server with `nodemon` on http://localhost:3100
+# Starts server with node's watchmode on http://localhost:3100
 npm run dev --workspace backend
 # Starts react app with `vite` on http://localhost:3000
 npm run dev --workspace frontend

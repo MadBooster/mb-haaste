@@ -12,7 +12,7 @@ const NewCustomer = () => {
     <button className='btn btn-outline-primary' onClick={createNewDummyCustomer}>
       <i className="bi bi-plus" />
       {' '}
-      Add new dummy customer
+      Create new customer
     </button>
   )
 }
